@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/chimera_wide3.png
 excerpt: "Coding and gaming over the years"
 intro:
-  - excerpt: 'For more details, use the upper left navigation menu. Featured items:'
+  - excerpt: 'For more details, use the upper right navigation menu. Featured items:'
 feature_row:
   - image_path: assets/images/chimera-factory.png
     alt: "Chimera Factory"
@@ -18,12 +18,12 @@ feature_row:
     url: "https://yyekko.itch.io"
   - image_path: /assets/images/Metroil.png
     alt: "ToadKid"
-    title: "ToadKid's Scratch Page"
-    excerpt: "Years of games and other code on scratch.mit.edu"
+    title: "My Scratch Page"
+    excerpt: "Years of games and other code on scratch.mit.edu as ToadKid"
     url: "https://scratch.mit.edu/users/toadkid/"
   - image_path: /assets/images/Problem14-7.png
     title: "Python Repository"
-    excerpt: "CYeC's python for games and math fun"
+    excerpt: "CYeC's python for games, class assignments, and math fun"
     url: "https://github.com/cyec2025/cyec_python"
 ---
 {% include feature_row id="intro" type="center" %}
