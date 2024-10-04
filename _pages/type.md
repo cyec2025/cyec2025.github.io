@@ -3,7 +3,7 @@ title: "Code by Type"
 permalink: /types/
 ---
 
-##Language or platform/framework:
+## Language or platform/framework:
 
 ### Scratch
 [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) -- continuous, to present
