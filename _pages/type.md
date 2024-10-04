@@ -1,16 +1,18 @@
 ---
-title: "Code by Category"
-permalink: /categories/
+title: "Code by Type"
+permalink: /types/
 ---
 
-## Scratch
+##Language or platform/framework:
+
+### Scratch
 [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) -- continuous, to present
 
-## Python
+### Python
 [CYeC's Python Repo](https://github.com/cyec2025/cyec_python) -- up through 2022
 
-## Unity
+### Unity
 [Simpleton](https://yyekko.itch.io/simpleton) -- 2021
 
-## Godot
+### Godot
 [Most other projects on itch.io](https://yyekko.itch.io/), aside from the featured Scratch projects.

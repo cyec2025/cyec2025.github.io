@@ -1,8 +1,8 @@
 main:
   - title: "By Year"
     url: /years/
-  - title: "By Category"
-    url: /categories/
+  - title: "By Type"
+    url: /types/
       #  - title: "Tags"
       #    url: /tags/
   - title: "About"
