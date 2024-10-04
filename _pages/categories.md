@@ -1,6 +1,6 @@
 ---
-permalink: /categories/
 title: "Code by Category"
+permalink: /categories/
 ---
 
 ## Scratch

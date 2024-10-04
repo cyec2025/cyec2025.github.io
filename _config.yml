@@ -60,18 +60,15 @@ author:
   avatar : "/assets/images/chimerakid.png"
   bio    : "I like to make games; the quirkier, the better." 
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://yyekko.itch.io/"
+    - label: "Scratch"
+      icon: "fab fa-fw fa-scratch"
+      url: "https://scratch.mit.edu/users/toadkid/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cyec2025"
 
 footer:
   links:

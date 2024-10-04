@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Make it fun and make it yours.
+I like to code and I am cool.
