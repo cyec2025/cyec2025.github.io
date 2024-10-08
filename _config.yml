@@ -66,7 +66,6 @@ author:
       icon: "fab fa-fw fa-itch-io"
       url: "https://yyekko.itch.io/"
     - label: "Scratch"
-      icon: "fa fa-w-14 fa-fw"
       url: "https://scratch.mit.edu/users/toadkid/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,15 +73,14 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://yyekko.itch.io/"
+    - label: "Scratch"
+      url: "https://scratch.mit.edu/users/toadkid/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/cyec2025"
 
 defaults:
   # _posts
