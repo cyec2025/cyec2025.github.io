@@ -60,12 +60,13 @@ author:
   name   : "Cyec (a.k.a. yekko, a.k.a. toadkid)"
   avatar : "/assets/images/chimerakid.png"
   bio    : "I like to make games; the quirkier, the better." 
+  scratch: toadkid
   links:
     - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://yyekko.itch.io/"
     - label: "Scratch"
-      icon: "fab fa-fw fa-scratch"
+      icon: "fa fa-w-14 fa-fw"
       url: "https://scratch.mit.edu/users/toadkid/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
