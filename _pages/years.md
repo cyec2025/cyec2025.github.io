@@ -17,7 +17,8 @@ title: "Code by Year"
 ## 2022
  - [Course assignments](https://github.com/cyec2025/cyec_python/tree/main/python_course) - Python Data Structures Community College Course, Spring 2022
  - [Simpleton](https://yyekko.itch.io/simpleton) -- for My First Game Jam, Summer 2022
- - [Most other projects on itch.io](https://yyekko.itch.io/), aside from the featured Scratch projects.
+ - [CYeC's 2022 Python](https://github.com/cyec2025/cyec_python/tree/main/2022_misc)
+ - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone that CYeC packaged for Mac OS X.
 
 ## 2023
  - [Most other projects on itch.io](https://yyekko.itch.io/), aside from the featured Scratch projects.
