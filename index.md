@@ -28,4 +28,3 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
-{# [Chimera Factory](https://yyekko.itch.io/chimera-factory)#}
