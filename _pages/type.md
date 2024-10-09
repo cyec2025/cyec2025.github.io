@@ -18,6 +18,6 @@ permalink: /types/
  - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone that CYeC packaged for Mac OS X.
 
 ### Scratch
-[Rouge](https://yyekko.itch.io/rouge) - a simple roguelike game written in Scratch
-[Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 200 projects, mostly games, written over the last 10+ years
+ - [Rouge](https://yyekko.itch.io/rouge) - a simple roguelike game written in Scratch
+ - [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 200 projects, mostly games, written over the last 10+ years
 
