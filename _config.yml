@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CYec's Coding History
+title: CYeC's Coding History
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A history of CyekkoC's code creations.
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cyec (a.k.a. yekko, a.k.a. toadkid)"
+  name   : "CYeC (a.k.a. yekko, a.k.a. toadkid)"
   avatar : "/assets/images/chimerakid.png"
   bio    : "I like to make games; the quirkier, the better." 
   scratch: toadkid
