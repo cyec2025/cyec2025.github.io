@@ -6,9 +6,11 @@ title: "Code by Year"
 ## 2024
  - [Chimera Factory](https://yyekko.itch.io/chimera-factory) -- For Godot Wild Jam #70, June 2024
  - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- Metroidvania game, started in 2024 in Scratch
+ - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- Petri dish simulator in Scratch, May 2024
 
 ## 2023
  - [I'm Your God Now](https://yyekko.itch.io/im-your-god-now) -- For GMTK Game Jam 2023, July 2023
+ - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June 2023
  - [Most other projects on itch.io](https://yyekko.itch.io/)
 
 ## 2022
