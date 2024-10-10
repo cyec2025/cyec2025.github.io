@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/chimera_wide3.png
 excerpt: "Coding and gaming over the years"
 intro:
-  - excerpt: 'For more details, use the upper right navigation menu. Featured items:'
+  - excerpt: 'For detailed history, use the upper right navigation menu. Featured items:'
 feature_row:
   - image_path: assets/images/chimera-factory.png
     alt: "Chimera Factory"
