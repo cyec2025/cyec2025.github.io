@@ -16,7 +16,7 @@ feature_row:
     title: "My itch.io Page"
     excerpt: "Chimera Factory, Simpleton, and other game jam creations"
     url: "https://yyekko.itch.io"
-  - image_path: /assets/images/Metroil.png
+  - image_path: /assets/images/Metroil2shot.png
     alt: "ToadKid"
     title: "My Scratch Page"
     excerpt: "Years of games and other code on scratch.mit.edu as ToadKid"
