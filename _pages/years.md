@@ -1,6 +1,6 @@
 ---
 permalink: /years/
-title: "Code by Year"
+title: "Projects by Year"
 ---
 
 ## 2024

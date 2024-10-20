@@ -1,12 +1,12 @@
 ---
-title: "Code by Type"
+title: "Projects by Type"
 permalink: /types/
 ---
 
 ## Language or platform/framework:
 
 ### Godot
-[Chimera Factory](https://yyekko.itch.io/chimera-factory)
+ - [Chimera Factory](https://yyekko.itch.io/chimera-factory)
 
 ### Unity
  - [Simpleton](https://yyekko.itch.io/simpleton)
@@ -19,4 +19,7 @@ permalink: /types/
 
 ### Scratch
  - [Rouge](https://yyekko.itch.io/rouge) - a simple roguelike game written in Scratch
- - [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 250 projects, mostly games, written over the last 10+ years
+ - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- In-progress Metroidvania game, started in 2024 in Scratch
+ - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- quick Petri dish simulator in Scratch, May 2024
+ - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June 2023
+ - [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 250 other projects, mostly games, written over the last 10+ years
