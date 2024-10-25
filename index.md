@@ -17,7 +17,7 @@ feature_row:
     excerpt: "Chimera Factory, Simpleton, and other game jam creations"
     url: "https://yyekko.itch.io"
     btn_label: "Visit"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
   - image_path: /assets/images/Metroil2shot.png
     alt: "ToadKid"
     title: "ToadKid on Scratch"
@@ -30,7 +30,7 @@ feature_row:
     excerpt: "CYeC's python for games, class assignments, and math fun"
     url: "https://github.com/cyec2025/cyec_python"
     btn_label: "Visit"
-    btn_class: "btn--info"
+    btn_class: "btn--warning"
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
