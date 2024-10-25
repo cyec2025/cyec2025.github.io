@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: assets/images/chimera-factory.png
     alt: "Chimera Factory"
-    title: "Yekko on itch.io"
+    btn_label: "Yekko on itch.io"
     excerpt: "Chimera Factory, Simpleton, and other game jam creations"
     url: "https://yyekko.itch.io"
   - image_path: /assets/images/Metroil2shot.png
