@@ -13,14 +13,17 @@ intro:
 feature_row:
   - image_path: assets/images/chimera-factory.png
     alt: "Chimera Factory"
-    btn_label: "Yekko on itch.io"
+    title: "Yekko on itch.io"
     excerpt: "Chimera Factory, Simpleton, and other game jam creations"
     url: "https://yyekko.itch.io"
+    btn_label: "Itch.io"
   - image_path: /assets/images/Metroil2shot.png
     alt: "ToadKid"
     title: "ToadKid on Scratch"
     excerpt: "Years of games and other code on scratch.mit.edu"
     url: "https://scratch.mit.edu/users/toadkid/"
+    btn_label: "Visit"
+    btn_class: info
   - image_path: /assets/images/Problem14-7.png
     title: "Python Repository"
     excerpt: "CYeC's python for games, class assignments, and math fun"
