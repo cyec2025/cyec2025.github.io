@@ -3,7 +3,7 @@ title: "Projects by Type"
 permalink: /types/
 ---
 
-## Language or platform/framework:
+## Language, framework or media:
 
 ### Godot
  - [Chimera Factory](https://yyekko.itch.io/chimera-factory)

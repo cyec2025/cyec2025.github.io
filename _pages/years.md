@@ -4,18 +4,18 @@ title: "Projects by Year"
 ---
 
 ## 2024
- - [Chimera Factory](https://yyekko.itch.io/chimera-factory) -- For Godot Wild Jam #70, June 2024
- - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- Metroidvania game, started in 2024 in Scratch
- - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- Petri dish simulator in Scratch, May 2024
+ - [Chimera Factory](https://yyekko.itch.io/chimera-factory) -- For Godot Wild Jam #70, June
+ - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- Metroidvania game, started earlier in the year in Scratch
+ - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- Petri dish simulator in Scratch, May 
 
 ## 2023
- - [I'm Your God Now](https://yyekko.itch.io/im-your-god-now) -- For GMTK Game Jam 2023, July 2023
- - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June 2023
+ - [I'm Your God Now](https://yyekko.itch.io/im-your-god-now) -- For GMTK Game Jam 2023, July
+ - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June
  - [Most other projects on itch.io](https://yyekko.itch.io/)
 
 ## 2022
- - [Course assignments](https://github.com/cyec2025/cyec_python/tree/main/python_course) - Community College Python Course, Spring 2022
- - [Simpleton](https://yyekko.itch.io/simpleton) -- for My First Game Jam, Summer 2022
+ - [Course assignments](https://github.com/cyec2025/cyec_python/tree/main/python_course) - Community College Python Course, Spring Semester
+ - [Simpleton](https://yyekko.itch.io/simpleton) -- for My First Game Jam, Summer
  - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone that CYeC packaged for Mac OS X.
  - [Rouge](https://yyekko.itch.io/rouge) (as in "red") - a simple roguelike game written in Scratch and packaged as html5.
  - Samples from Flapping Bat and Rouge OSTs (created in BeepBox) can be found on YouTube at [Yekko Dev](https://www.youtube.com/@yekkodev).
