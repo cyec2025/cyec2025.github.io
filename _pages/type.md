@@ -23,3 +23,6 @@ permalink: /types/
  - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- quick Petri dish simulator in Scratch, May 2024
  - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June 2023
  - [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 250 other projects, mostly games, written over the last 10+ years
+
+### Video and Audio
+ - [Yekko Dev](https://www.youtube.com/@yekkodev) on YouTube - original sound tracks for various games, plus some stop-motion animation and other video projects.
