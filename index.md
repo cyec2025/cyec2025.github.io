@@ -11,7 +11,7 @@ excerpt: "Coding and gaming over the years"
 intro:
   - excerpt: 'For detailed history, use the upper right navigation menu. Featured items:'
 feature_row:
-  - image_path: assets/images/chimera-fallen-sq.png
+  - image_path: assets/images/chimera-stackedsquare.png
     alt: "Chimera Factory"
     title: "Yekko on itch.io"
     excerpt: "Chimera Factory, Simpleton, and other game jam creations"
