@@ -14,7 +14,7 @@ permalink: /types/
  - [Legendary Spinnera](https://yyekko.itch.io/legendary-spinnera)
 
 ### Python
- - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone that CYeC packaged for Mac OS X.
+ - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone packaged for Mac OS X.
  - [CYeC's Python Repo](https://github.com/cyec2025/cyec_python) - many small projects using libraries like turtle, pygame, and matplotlib for games or math calculations and visualizations, plus some assignments for a community college Python class in Spring 2022.
 
 ### Scratch
