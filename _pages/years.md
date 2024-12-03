@@ -7,7 +7,7 @@ title: "Projects by Year"
  - [Chimera Factory](https://yyekko.itch.io/chimera-factory) -- For Godot Wild Jam #70, June
  - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- Metroidvania game, started earlier in the year in Scratch
  - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- Petri dish simulator in Scratch, May 
- - [Beetle Life Cycle](https://www.youtube.com/watch?v=euhkK894pR4) -- Stop-motion video, animated ink on paper with other media, September
+ - [Beetle Life Cycle](https://www.youtube.com/watch?v=euhkK894pR4) -- Stop-motion animated video for Media Arts community college class; ink on paper with other media and original music, September
 
 ## 2023
  - [I'm Your God Now](https://yyekko.itch.io/im-your-god-now) -- For GMTK Game Jam 2023, July

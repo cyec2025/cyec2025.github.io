@@ -25,6 +25,5 @@ permalink: /types/
  - [Toadkid on Scratch](https://scratch.mit.edu/users/Toadkid/) - more than 250 other projects, mostly games, written over the last 10+ years
 
 ### Video and Audio
- - [Beetle Life Cycle](https://www.youtube.com/watch?v=euhkK894pR4) -- Stop-moti
-on video, animated ink on paper with other media, September
+ - [Beetle Life Cycle](https://www.youtube.com/watch?v=euhkK894pR4) -- Stop-motion animated video for Media Arts community college class; ink on paper with other media and original music, September
  - [Yekko Dev](https://www.youtube.com/@yekkodev) on YouTube - Other video projects and original sound tracks for various games 
