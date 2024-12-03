@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "CYeC (a.k.a. yekko, a.k.a. toadkid)"
   avatar : "/assets/images/chimerakid.png"
-  bio    : "I like to code adn I am cool."
+  bio    : "I like to code and I am cool."
   scratch: toadkid
   links:
     - label: "Itch.io"
