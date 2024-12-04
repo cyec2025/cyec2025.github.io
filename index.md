@@ -7,9 +7,9 @@ header:
   overlay_color: "#0f0"
   overlay_filter: "0.5"
   overlay_image: /assets/images/chimera_wide3.png
-excerpt: "Coding and gaming over the years"
+excerpt: "Coding and creativity over the years"
 intro:
-  - excerpt: 'For detailed history, use the upper right navigation menu. Featured items:'
+  - excerpt: 'For detailed portfolio by year or type of project, use the upper right navigation menu. Featured collections:'
 feature_row:
   - image_path: /assets/images/chimera-stackedsquare.png
     alt: "Chimera Factory"
