@@ -5,7 +5,7 @@ title: "Projects by Year"
 
 ## 2024
  - [Chimera Factory](https://yyekko.itch.io/chimera-factory) -- For Godot Wild Jam #70, June
- - [Metroil 2: Megan Quest](https://scratch.mit.edu/projects/1054380324/) -- Metroidvania game, started earlier in the year in Scratch
+ - [Metroil 2: Megan Quest](https://yyekko.itch.io/metroil-2) -- Metroidvania demo in Scratch packaged for HTML5, November
  - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- Petri dish simulator in Scratch, May 
  - [Beetle Life Cycle](https://www.youtube.com/watch?v=euhkK894pR4) -- Stop-motion animated video for Media Arts community college class; ink on paper with other media and original music, September
 
