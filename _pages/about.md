@@ -3,4 +3,5 @@ permalink: /about/
 title: "About"
 ---
 
-I like to code and I am cool.
+Hello, I like to make games and explore various styles and genres.  My favorite eras are the PS2 and the 3DS.
+
