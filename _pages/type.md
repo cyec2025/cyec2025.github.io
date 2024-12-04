@@ -18,7 +18,7 @@ permalink: /types/
  - [CYeC's Python Repo](https://github.com/cyec2025/cyec_python) - many small projects using libraries like turtle, pygame, and matplotlib for games or math calculations and visualizations, plus some assignments for a community college Python class in Spring 2022.
 
 ### Scratch
- - [Rouge](https://yyekko.itch.io/rouge) (as in "red") - a simple roguelike game written in Scratch
+ - [Rouge](https://yyekko.itch.io/rouge) (as in "red") - a simple roguelike game written in Scratch and packaged for HTML5
  - [METROIL 2 : Megan Quest](https://yyekko.itch.io/metroil-2) -- Metroidvania demo in Scratch packaged for HTML5, November 2024
  - [mutation nation](https://scratch.mit.edu/projects/647746342/) -- quick Petri dish simulator in Scratch, May 2024
  - [Lizard Garden](https://yyekko.itch.io/lizard-garden) -- Garden simulator written in Scratch and packaged for Windows, June 2023

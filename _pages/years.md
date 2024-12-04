@@ -18,7 +18,7 @@ title: "Projects by Year"
  - [Course assignments](https://github.com/cyec2025/cyec_python/tree/main/python_course) - Community College Python Course, Spring Semester
  - [Simpleton](https://yyekko.itch.io/simpleton) -- for My First Game Jam, Summer
  - [Flapping Bat](https://github.com/cyec2025/cyec_python/tree/main/flapping_bat_2022) - a pygame Flappy Bird clone packaged for Mac OS X.
- - [Rouge](https://yyekko.itch.io/rouge) (as in "red") - a simple roguelike game written in Scratch and packaged as html5.
+ - [Rouge](https://yyekko.itch.io/rouge) (as in "red") - a simple roguelike game written in Scratch and packaged as HTML5.
  - Samples from Flapping Bat and Rouge OSTs (created in BeepBox) can be found on YouTube at [Yekko Dev](https://www.youtube.com/@yekkodev).
  - [CYeC's 2022 Python](https://github.com/cyec2025/cyec_python/tree/main/2022_misc)
 
