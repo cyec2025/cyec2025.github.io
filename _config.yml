@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cyec2025"
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@yekkodev"
 
 footer:
@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cyec2025"
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@yekkodev"
 
 defaults:
