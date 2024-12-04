@@ -16,9 +16,8 @@
 title: CYeC's Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A history of CyekkoC's code creations.
-twitter_username: username
-github_username: username
+ Creative coding, game development, and more!
+github_username: cyec2025
 minimal_mistakes_skin: dark
 search: true
 
